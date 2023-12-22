@@ -1,0 +1,109 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "dac_clka",
+					"strict" : false
+				},
+				{
+					"name" : "dac_clkb",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_da2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_wra",
+					"strict" : false
+				},
+				{
+					"name" : "dac_wrb",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "key[0]",
+					"strict" : false
+				},
+				{
+					"name" : "key[1]",
+					"strict" : false
+				},
+				{
+					"name" : "key[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

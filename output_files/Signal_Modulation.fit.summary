@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Dec 16 18:25:30 2023
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : Signal_Modulation
+Top-level Entity Name : Signal_Modulation
+Family : Cyclone IV E
+Device : EP4CE15F23C8
+Timing Models : Final
+Total logic elements : 97 / 15,408 ( < 1 % )
+    Total combinational functions : 89 / 15,408 ( < 1 % )
+    Dedicated logic registers : 55 / 15,408 ( < 1 % )
+Total registers : 55
+Total pins : 27 / 344 ( 8 % )
+Total virtual pins : 0
+Total memory bits : 2,048 / 516,096 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
